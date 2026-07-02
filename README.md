@@ -22,5 +22,7 @@ wolf自制的表情包
 
 4. [![This Website is Powered by DigitalPlat FreeDomain Get a free domain from DigitalPlat.](https://img.shields.io/badge/DigitalPlat-Get%20a%20free%20domain%20from%20DigitalPlat.-2563eb?style=flat-square&logo=databricks&logoColor=ffffff)](https://dash.domain.digitalplat.org/signup?ref=3lT6CU6HGe)
 
+5. [DMIT](https://www.dmit.io/aff.php?aff=23825)
+
 
 
